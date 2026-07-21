@@ -1,5 +1,3 @@
-readme_content = """# quick-retry
-
 [![Crates.io](https://img.shields.io/crates/v/quick_retry.svg)](https://crates.io/crates/quick_retry)
 [![Documentation](https://docs.rs/quick_retry/badge.svg)](https://docs.rs/quick_retry)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
