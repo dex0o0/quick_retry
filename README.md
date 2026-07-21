@@ -20,6 +20,10 @@ A lightweight, **zero-dependency** Rust library for retrying fallible operations
 
 Add `quick_retry` to your `Cargo.toml`:
 
+```Bash
+cargo add quick_retry
+```
+
 ```toml
 [dependencies]
 quick_retry = "0.1.0"
