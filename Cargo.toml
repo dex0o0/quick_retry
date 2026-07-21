@@ -1,0 +1,12 @@
+[package]
+name = "quick_retry"
+version = "0.1.0"
+edition = "2024"
+authors = ["Dex0o0 https://github.com/dex0o0"]
+description = "a lightweight, zero-dependenc retry library for Rust operations."
+license = "MIT"
+repository = "https://github.com/dex0o0/quick_retry"
+keywords = ["retry","backoff","resilience","utility"]
+categories = ["rust-patterns","development-tool"]
+
+[dependencies]
