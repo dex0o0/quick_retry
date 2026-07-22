@@ -1,7 +1,7 @@
 [![Crates.io](https://img.shields.io/crates/v/quick_retry.svg)](https://crates.io/crates/quick_retry)
 [![Documentation](https://docs.rs/quick_retry/badge.svg)](https://docs.rs/quick_retry)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Crates.io Downloads (version)](https://img.shields.io/crates/dv/quick_retry/0.1.0)
+![Crates.io Total Downloads](https://img.shields.io/crates/d/quick_retry)
 
 A lightweight, **zero-dependency** Rust library for retrying fallible operations with flexible delay and backoff strategies.
 
